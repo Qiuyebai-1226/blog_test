@@ -6,7 +6,52 @@
         <description>Recent content on 夜秋白の小黑屋</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 18 Oct 2022 12:55:21 +0800</lastBuildDate><atom:link href="https://elysia.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 19 Oct 2022 13:43:36 +0800</lastBuildDate><atom:link href="https://elysia.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Embeddings模型分享</title>
+        <link>https://elysia.com/p/embeddings%E6%A8%A1%E5%9E%8B%E5%88%86%E4%BA%AB/</link>
+        <pubDate>Wed, 19 Oct 2022 13:43:36 +0800</pubDate>
+        
+        <guid>https://elysia.com/p/embeddings%E6%A8%A1%E5%9E%8B%E5%88%86%E4%BA%AB/</guid>
+        <description>&lt;img src="https://loli.tc/images/102010145_p0_master1200.jpg" alt="Featured image of post Embeddings模型分享" /&gt;&lt;h1 id=&#34;webui模型分享embeddings&#34;&gt;WebUI模型分享（embeddings）&lt;/h1&gt;
+&lt;p&gt;最近在玩泄露的novelai模型时，也拿部分画风鲜明的画师作品进行了画风训练，在这里分享一下。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;所有模型下载链接：&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://43.138.74.178:5244/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/embeddings/embeddings&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;点我&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;各模型对应pt文件和效果图&#34;&gt;各模型对应pt文件和效果图&lt;/h2&gt;
+&lt;h3 id=&#34;阿戈魔agmhttpswwwpixivnetusers20670939&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/20670939&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;阿戈魔AGM&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;strong&gt;agm.pt&lt;/strong&gt;&lt;br&gt;
+这个模型算是所以模型中效果最好的一个了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;毛玉牛乳玉之けだまhttpswwwpixivnetusers16731&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/16731&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;毛玉牛乳(玉之けだま)&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;strong&gt;mynr.pt&lt;/strong&gt;
+毛玉老师的魅魔本也是非常顶的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;akenghttpswwwpixivnetusers34054962&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/34054962&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;—akeng&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;a class=&#34;link&#34; href=&#34;http://43.138.74.178:5244/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/embeddings/embeddings/akeng.pt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;akeng.pt&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;麻生httpswwwpixivnetusers2848117&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/2848117&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;麻生&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;a class=&#34;link&#34; href=&#34;http://43.138.74.178:5244/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/embeddings/embeddings/masheng.pt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;masheng.pt&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;chintora0201httpswwwpixivnetusers14496985&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/14496985&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;ChinTora0201&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;a class=&#34;link&#34; href=&#34;http://43.138.74.178:5244/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/embeddings/embeddings/houzi.pt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;houzi.pt&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>Dier</title>
         <link>https://elysia.com/p/dier/</link>
         <pubDate>Tue, 18 Oct 2022 12:55:21 +0800</pubDate>
@@ -20,259 +65,6 @@
 图片无审核，上传最大限制50MB（登陆后），不限制数量&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;p&gt;这是一张涩图！无需科学上网
-&lt;a class=&#34;link&#34; href=&#34;https://loli.tc/image/jDoe4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://loli.tc/images/8d2850b0bf52647ab5d22558d3b50f04.md.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;8d2850b0bf52647ab5d22558d3b50f04.md.jpg&#34;
-	
-	
-&gt;&lt;/a&gt;
-这是一堆涩图
-&lt;img src=&#34;https://loli.tc/images/R071-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R071-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R065-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R065-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R072-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R072-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R057-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R057-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R059-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R059-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R059-15.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R059-15.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R060-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R060-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R058-15.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R058-15.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R063-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R063-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R063-13.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R063-13.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R061-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R061-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R062-15.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R062-15.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R053-15.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R053-15.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R064-15.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R064-15.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R055-15.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R055-15.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R056-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R056-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R055-35.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R055-35.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R052-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R052-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R046-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R046-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R050-15.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R050-15.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R051-18.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R051-18.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R043-13.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R043-13.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R054-14.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R054-14.jpg&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://loli.tc/images/R054-15.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;R054-15.jpg&#34;
-	
-	
-&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -281,7 +73,7 @@
         <pubDate>Mon, 17 Oct 2022 22:23:39 +0800</pubDate>
         
         <guid>https://elysia.com/p/hugo%E5%88%9D%E4%BD%93%E9%AA%8C/</guid>
-        <description>&lt;img src="https://loli.tc/images/74241216_p0.jpg" alt="Featured image of post Hugo初体验" /&gt;&lt;h1 id=&#34;这是我的第一篇博客&#34;&gt;&lt;strong&gt;这是我的第一篇博客&lt;/strong&gt;&lt;/h1&gt;
+        <description>&lt;h1 id=&#34;这是我的第一篇博客&#34;&gt;&lt;strong&gt;这是我的第一篇博客&lt;/strong&gt;&lt;/h1&gt;
 &lt;hr&gt;
 &lt;p&gt;不知道写些什么，就给大伙翻个跟头吧&lt;/p&gt;
 &lt;blockquote&gt;
@@ -291,59 +83,9 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;二级标题&#34;&gt;&lt;em&gt;二级标题&lt;/em&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;图片插入练习&#34;&gt;图片插入练习&lt;/h3&gt;
-&lt;p&gt;这是一张托管于&lt;a class=&#34;link&#34; href=&#34;https://gelbooru.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Gelbooru图站&lt;/strong&gt;&lt;/a&gt;的涩图，可以直接访问
-&lt;img src=&#34;https://img3.gelbooru.com//images/6c/2f/6c2fc9c01b0ae4af9b71d2388613043a.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;尼路&#34;
-	
-	
-&gt;&lt;br&gt;
-托管于&lt;a class=&#34;link&#34; href=&#34;https://danbooru.donmai.us/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Danbooru图站&lt;/strong&gt;&lt;/a&gt;的涩图，需要科学上网才能访问
-&lt;img src=&#34;https://cdn.donmai.us/sample/a7/b5/__kitagawa_marin_sono_bisque_doll_wa_koi_wo_suru_drawn_by_suuru__sample-a7b52cfadfbf4f3ac3f9c2f44c54d2b6.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;凝光&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;而这是一张托管于&lt;a class=&#34;link&#34; href=&#34;https://gelbooru.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;Gelbooru图站&lt;/strong&gt;&lt;/a&gt;的动图，也可以直接访问&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://img3.gelbooru.com//images/e7/eb/e7eb614e59342bbef31e35d53d62eea2.gif&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;刻晴&#34;
-	
-	
-&gt;&lt;/p&gt;
 &lt;h3 id=&#34;视频插入练习&#34;&gt;视频插入练习&lt;/h3&gt;
-&lt;p&gt;这里应该有一个视频，但是我HUGO不解析，我也不会用shortcode，所以你们看不到！（看到了就说明我解决了）
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;video
-    controls
-    src=&#34;https://cdn.donmai.us/original/75/38/__chika_princess_connect_drawn_by_horosuke_and_neet_co__7538e0efbc89e365878b03fd6040e3c6.mp4&#34;
-    
-    
-    &gt;
-        &lt;p&gt;
-            Your browser doesn&#39;t support HTML5 video. Here is a
-            &lt;a href=&#34;https://cdn.donmai.us/original/75/38/__chika_princess_connect_drawn_by_horosuke_and_neet_co__7538e0efbc89e365878b03fd6040e3c6.mp4&#34;&gt;link to the video&lt;/a&gt; instead.
-        &lt;/p&gt;
-    &lt;/video&gt;
-&lt;/div&gt;
-
-但是bilibili的视频可以用shortcode插入
+&lt;p&gt;这里应该有一个视频，但是我HUGO不解析，我也不会用shortcode，所以你们看不到！（看到了就说明我解决了）&lt;/p&gt;
+&lt;p&gt;但是bilibili的视频可以用shortcode插入
 
 
 

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>embeddings on 夜秋白の小黑屋</title>
+        <link>https://elysia.com/tags/embeddings/</link>
+        <description>Recent content in embeddings on 夜秋白の小黑屋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 19 Oct 2022 13:43:36 +0800</lastBuildDate><atom:link href="https://elysia.com/tags/embeddings/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Embeddings模型分享</title>
+        <link>https://elysia.com/p/embeddings%E6%A8%A1%E5%9E%8B%E5%88%86%E4%BA%AB/</link>
+        <pubDate>Wed, 19 Oct 2022 13:43:36 +0800</pubDate>
+        
+        <guid>https://elysia.com/p/embeddings%E6%A8%A1%E5%9E%8B%E5%88%86%E4%BA%AB/</guid>
+        <description>&lt;img src="https://loli.tc/images/102010145_p0_master1200.jpg" alt="Featured image of post Embeddings模型分享" /&gt;&lt;h1 id=&#34;webui模型分享embeddings&#34;&gt;WebUI模型分享（embeddings）&lt;/h1&gt;
+&lt;p&gt;最近在玩泄露的novelai模型时，也拿部分画风鲜明的画师作品进行了画风训练，在这里分享一下。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;所有模型下载链接：&lt;/strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://43.138.74.178:5244/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/embeddings/embeddings&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;点我&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;各模型对应pt文件和效果图&#34;&gt;各模型对应pt文件和效果图&lt;/h2&gt;
+&lt;h3 id=&#34;阿戈魔agmhttpswwwpixivnetusers20670939&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/20670939&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;阿戈魔AGM&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;strong&gt;agm.pt&lt;/strong&gt;&lt;br&gt;
+这个模型算是所以模型中效果最好的一个了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;毛玉牛乳玉之けだまhttpswwwpixivnetusers16731&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/16731&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;毛玉牛乳(玉之けだま)&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;strong&gt;mynr.pt&lt;/strong&gt;
+毛玉老师的魅魔本也是非常顶的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;akenghttpswwwpixivnetusers34054962&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/34054962&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;—akeng&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;a class=&#34;link&#34; href=&#34;http://43.138.74.178:5244/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/embeddings/embeddings/akeng.pt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;akeng.pt&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;麻生httpswwwpixivnetusers2848117&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/2848117&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;麻生&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;a class=&#34;link&#34; href=&#34;http://43.138.74.178:5244/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/embeddings/embeddings/masheng.pt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;masheng.pt&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;chintora0201httpswwwpixivnetusers14496985&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pixiv.net/users/14496985&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;ChinTora0201&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对应模型文件为&lt;a class=&#34;link&#34; href=&#34;http://43.138.74.178:5244/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/embeddings/embeddings/houzi.pt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;houzi.pt&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
