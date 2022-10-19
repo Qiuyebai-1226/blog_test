@@ -516,24 +516,27 @@
      
     
         
-    <script src='//unpkg.com/@waline/client@v2/dist/waline.js'></script>
-<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet'/>
-<div id="waline" class="waline-container"></div>
-<style>
-    .waline-container {
-        background-color: var(--card-background);
-        border-radius: var(--card-border-radius);
-        box-shadow: var(--shadow-l1);
-        padding: var(--card-padding);
-        --waline-font-size: var(--article-font-size);
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="4d783ed1-dea3-4d21-96c8-c5f3afa2e77d"
+    data-page-id="ef6f966c97cdd4a9383ff0282697f419"
+    data-page-url="https://elysia.com/p/hugo%E5%88%9D%E4%BD%93%E9%AA%8C/"
+    data-page-title="Hugo初体验"></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<script>
+    function setCusdisTheme(theme) {
+        let cusdis = document.querySelector('#cusdis_thread iframe');
+        if (cusdis) {
+            window.CUSDIS.setTheme(theme)
+        }
     }
-    .waline-container .wl-count {
-        color: var(--card-text-color-main);
-    }
-</style><script>
-    
-    Waline.init({"dark":"html[data-scheme=\"dark\"]","el":"#waline","emoji":["https://unpkg.com/@waline/emojis@1.1.0/bilibili"],"lang":"zh-CN","locale":{"admin":"Admin","placeholder":null},"requiredMeta":["name","email","url"],"serverURL":"https://waline-server-sand.vercel.app/"});
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        setCusdisTheme(e.detail)
+    })
 </script>
+
 
     
 
