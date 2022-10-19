@@ -5,9 +5,6 @@
     <loc>https://elysia.com/p/dier/</loc>
     <lastmod>2022-10-18T12:55:21+08:00</lastmod>
   </url><url>
-    <loc>https://elysia.com/tags/ide/</loc>
-    <lastmod>2022-10-18T12:55:21+08:00</lastmod>
-  </url><url>
     <loc>https://elysia.com/post/</loc>
     <lastmod>2022-10-18T12:55:21+08:00</lastmod>
   </url><url>
@@ -24,7 +21,16 @@
                 href="https://elysia.com/tags/"
                 />
   </url><url>
+    <loc>https://elysia.com/tags/%E4%B8%8D%E5%AE%A1%E6%A0%B8/</loc>
+    <lastmod>2022-10-18T12:55:21+08:00</lastmod>
+  </url><url>
     <loc>https://elysia.com/tags/%E5%85%8D%E8%B4%B9/</loc>
+    <lastmod>2022-10-18T12:55:21+08:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/tags/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2022-10-18T12:55:21+08:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/tags/%E6%97%A0%E9%99%90%E5%88%B6/</loc>
     <lastmod>2022-10-18T12:55:21+08:00</lastmod>
   </url><url>
     <loc>https://elysia.com/</loc>
@@ -40,10 +46,19 @@
                 href="https://elysia.com/"
                 />
   </url><url>
-    <loc>https://elysia.com/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2022-10-18T12:55:21+08:00</lastmod>
+    <loc>https://elysia.com/tags/hugo/</loc>
+    <lastmod>2022-10-17T22:23:39+08:00</lastmod>
   </url><url>
-    <loc>https://elysia.com/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://elysia.com/p/hugo%E5%88%9D%E4%BD%93%E9%AA%8C/</loc>
+    <lastmod>2022-10-17T22:23:39+08:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/tags/nsfw/</loc>
+    <lastmod>2022-10-17T22:23:39+08:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/tags/%E7%BB%83%E4%B9%A0/</loc>
+    <lastmod>2022-10-17T22:23:39+08:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/tags/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2022-10-17T22:23:39+08:00</lastmod>
   </url><url>
     <loc>https://elysia.com/archives/</loc>

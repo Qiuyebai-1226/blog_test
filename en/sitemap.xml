@@ -14,18 +14,6 @@
                 href="https://elysia.com/en/categories/"
                 />
   </url><url>
-    <loc>https://elysia.com/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://elysia.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://elysia.com/en/"
-                />
-  </url><url>
     <loc>https://elysia.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +24,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://elysia.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://elysia.com/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://elysia.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://elysia.com/en/"
                 />
   </url>
 </urlset>
