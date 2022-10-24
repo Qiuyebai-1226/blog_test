@@ -2,6 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://elysia.com/page/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/archives/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://elysia.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://elysia.com/"
+                />
+  </url><url>
     <loc>https://elysia.com/post/</loc>
     <lastmod>2022-10-23T21:54:47+08:00</lastmod>
   </url><url>
@@ -26,19 +45,6 @@
   </url><url>
     <loc>https://elysia.com/p/%E9%AA%8C%E8%BD%A6%E7%A5%9E%E5%99%A8pikpak/</loc>
     <lastmod>2022-10-23T21:54:47+08:00</lastmod>
-  </url><url>
-    <loc>https://elysia.com/</loc>
-    <lastmod>2022-10-23T21:54:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://elysia.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://elysia.com/"
-                />
   </url><url>
     <loc>https://elysia.com/tags/embeddings/</loc>
     <lastmod>2022-10-19T13:43:36+08:00</lastmod>
@@ -85,12 +91,6 @@
     <loc>https://elysia.com/tags/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2022-10-17T22:23:39+08:00</lastmod>
   </url><url>
-    <loc>https://elysia.com/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elysia.com/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://elysia.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -103,10 +103,10 @@
                 href="https://elysia.com/categories/"
                 />
   </url><url>
-    <loc>https://elysia.com/links/</loc>
+    <loc>https://elysia.com/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
     <loc>https://elysia.com/search/</loc>
   </url><url>
-    <loc>https://elysia.com/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://elysia.com/%E5%8F%8B%E9%93%BE/</loc>
   </url>
 </urlset>
