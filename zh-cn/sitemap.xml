@@ -2,14 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elysia.com/page/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>https://elysia.com/post/</loc>
+    <lastmod>2022-11-22T19:41:08+08:00</lastmod>
   </url><url>
-    <loc>https://elysia.com/archives/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>https://elysia.com/p/proxy/</loc>
+    <lastmod>2022-11-22T19:41:08+08:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/tags/</loc>
+    <lastmod>2022-11-22T19:41:08+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://elysia.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://elysia.com/tags/"
+                />
+  </url><url>
+    <loc>https://elysia.com/tags/%E6%89%93%E4%B8%8D%E5%BC%80/</loc>
+    <lastmod>2022-11-22T19:41:08+08:00</lastmod>
+  </url><url>
+    <loc>https://elysia.com/tags/%E9%AD%94%E6%B3%95/</loc>
+    <lastmod>2022-11-22T19:41:08+08:00</lastmod>
   </url><url>
     <loc>https://elysia.com/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-22T19:41:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,21 +40,11 @@
                 href="https://elysia.com/"
                 />
   </url><url>
-    <loc>https://elysia.com/post/</loc>
-    <lastmod>2022-10-23T21:54:47+08:00</lastmod>
+    <loc>https://elysia.com/page/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elysia.com/tags/</loc>
-    <lastmod>2022-10-23T21:54:47+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://elysia.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://elysia.com/tags/"
-                />
+    <loc>https://elysia.com/archives/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://elysia.com/tags/%E7%BD%91%E7%9B%98/</loc>
     <lastmod>2022-10-23T21:54:47+08:00</lastmod>

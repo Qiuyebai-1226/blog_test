@@ -6,7 +6,81 @@
         <description>Recent content on 夜秋白の小黑屋</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://elysia.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 22 Nov 2022 19:41:08 +0800</lastBuildDate><atom:link href="https://elysia.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Proxy</title>
+        <link>https://elysia.com/p/proxy/</link>
+        <pubDate>Tue, 22 Nov 2022 19:41:08 +0800</pubDate>
+        
+        <guid>https://elysia.com/p/proxy/</guid>
+        <description>&lt;img src="https://loli.tc/images/0064e2d28ae7eb4548b.jpg" alt="Featured image of post Proxy" /&gt;&lt;h1 id=&#34;如何使用魔法&#34;&gt;如何使用魔法&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇面向萌新的魔法教学，用于解决&lt;code&gt;你好，网站打不开！&lt;/code&gt;的问题，使用v2ray&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;获取订阅链接&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;获取订阅链接的方式有很多种，这里说两种最简单的获取方式。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;获取github分享的订阅链接&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;https://raw.fastgit.org/freefq/free/master/v2&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;这是github分享的订阅节点，搜集自网络，定时更新。优点是导入即用，缺点是节点的速度、延迟、寿命无法保证，建议保存用于临时救急，不建议长期使用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;购买/白嫖机场的订阅链接&lt;/p&gt;
+&lt;p&gt;机场的订阅链接相比之下会比较稳定，但大多数都需要付费，且有跑路风险，这里只推荐一个能够长期白嫖的机场&lt;a class=&#34;link&#34; href=&#34;http://purefast.net&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;pfvpn&lt;/strong&gt;&lt;/a&gt;,每天签到可以使用15Mbps带宽的节点，不限流量，稳定性和延迟较好，且解锁了流媒体可以观看奈飞。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;使用方式&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;访问机场地址&lt;a class=&#34;link&#34; href=&#34;http://purefast.net&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;purefast.net&lt;/a&gt;，注册账号，点击每日签到，签到完成后点击复制Trojan订阅链接，获取节点订阅地址。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://loli.tc/images/QQ20221122200025.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;点击复制&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;下载v2ray软件并使用&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;电脑端使用&lt;a class=&#34;link&#34; href=&#34;https://github.com/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;v2rayN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下载完成后解压，在文件夹中找到&lt;code&gt;v2rayN.exe&lt;/code&gt;文件，双击运行，会在右下角显示v2rayN的图标，双击图标打开主界面，选择&lt;code&gt;订阅/订阅设置&lt;/code&gt;，将上述步骤获得的订阅链接添加到订阅列表里，勾选&lt;code&gt;◻启用&lt;/code&gt;，点击确定保存。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://loli.tc/images/QQ20221122201150.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;订阅设置&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;添加订阅完成后，点击&lt;code&gt;订阅/更新订阅(不通过代理)&lt;/code&gt;进行节点更新，可以&lt;code&gt;ctrl+a&lt;/code&gt;全选节点，使用&lt;code&gt;ctrl+r&lt;/code&gt;进行延迟测试或&lt;code&gt;ctrl+t&lt;/code&gt;进行速度测试，测试完成后按&lt;code&gt;ctrl+e&lt;/code&gt;对节点进行排序，选择最优节点，左键单击后按&lt;code&gt;enter&lt;/code&gt;进行选中。&lt;/p&gt;
+&lt;p&gt;选择最优节点后，右键托盘图标，选择&lt;code&gt;系统代理/自动设置系统代理&lt;/code&gt;，打开浏览器，访问&lt;a class=&#34;link&#34; href=&#34;http://youtube.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;youtube.com&lt;/a&gt;，如果配置没有问题，就可以正常打开youtube进行视频播放了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;手机端使用&lt;a class=&#34;link&#34; href=&#34;https://github.com/2dust/v2rayNG/releases/download/1.7.23/v2rayNG_1.7.23.apk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;v2rayNG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;仅限于安卓/鸿蒙用户，点击小标题链接即可下载。&lt;/p&gt;
+&lt;p&gt;软件安装完成后点击左上角，选择订阅设置，点击右上角&lt;code&gt;＋&lt;/code&gt;号新建订阅，填入订阅链接和备注(随便写),点击右上角&lt;code&gt;√&lt;/code&gt;进行保存。确保订阅链接为启用状态，即订阅设置里订阅左侧为绿色状态，而不是灰色。&lt;/p&gt;
+&lt;p&gt;返回主页面，点击右上角&lt;code&gt;三个点&lt;/code&gt;，选择&lt;code&gt;更新订阅&lt;/code&gt;进行节点更新，同样可以对节点进行测试，选择节点，点击右下角图标，最下方显示已连接即可进行使用。&lt;/p&gt;
+&lt;p&gt;第一次使用会提示是否允许创建VPN链接，请选择&lt;code&gt;是&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>文章</title>
         <link>https://elysia.com/archives/</link>
         <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
