@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elysia.com/en/categories/</loc>
+    <loc>https://elysia.club/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://elysia.com/categories/"
+                href="https://elysia.club/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elysia.com/en/categories/"
+                href="https://elysia.club/en/categories/"
                 />
   </url><url>
-    <loc>https://elysia.com/en/tags/</loc>
+    <loc>https://elysia.club/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://elysia.com/tags/"
+                href="https://elysia.club/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elysia.com/en/tags/"
+                href="https://elysia.club/en/tags/"
                 />
   </url><url>
-    <loc>https://elysia.com/en/</loc>
+    <loc>https://elysia.club/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://elysia.com/"
+                href="https://elysia.club/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://elysia.com/en/"
+                href="https://elysia.club/en/"
                 />
   </url>
 </urlset>
