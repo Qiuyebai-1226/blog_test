@@ -7,19 +7,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 22 Nov 2022 19:41:08 +0800</lastBuildDate><atom:link href="https://elysia.club/tags/%E6%89%93%E4%B8%8D%E5%BC%80/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Proxy</title>
-        <link>https://elysia.club/p/proxy/</link>
+        <title>代理订阅使用方式</title>
+        <link>https://elysia.club/p/%E4%BB%A3%E7%90%86%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/</link>
         <pubDate>Tue, 22 Nov 2022 19:41:08 +0800</pubDate>
         
-        <guid>https://elysia.club/p/proxy/</guid>
-        <description>&lt;img src="https://loli.tc/images/0064e2d28ae7eb4548b.jpg" alt="Featured image of post Proxy" /&gt;&lt;h1 id=&#34;如何使用魔法&#34;&gt;如何使用魔法&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇面向萌新的魔法教学，用于解决&lt;code&gt;你好，网站打不开！&lt;/code&gt;的问题，使用v2ray&lt;/p&gt;
+        <guid>https://elysia.club/p/%E4%BB%A3%E7%90%86%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/</guid>
+        <description>&lt;img src="https://img.elysia.top/api/img/8DmdY7" alt="Featured image of post 代理订阅使用方式" /&gt;&lt;blockquote&gt;
+&lt;p&gt;这是一篇面向萌新的代理使用教学，用于解决&lt;code&gt;你好，网站打不开！&lt;/code&gt;的问题&lt;br&gt;
+本文不含任何推广，所有机场链接未添加邀请码&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ol&gt;
-&lt;li&gt;获取订阅链接&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+&lt;p&gt;获取订阅链接&lt;/p&gt;
 &lt;p&gt;获取订阅链接的方式有很多种，这里说两种最简单的获取方式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;获取github分享的订阅链接&lt;/p&gt;
@@ -31,8 +33,8 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;购买/白嫖机场的订阅链接&lt;/p&gt;
-&lt;p&gt;机场的订阅链接相比之下会比较稳定，但大多数都需要付费，且有跑路风险，这里只推荐一个能够长期白嫖的机场&lt;a class=&#34;link&#34; href=&#34;http://purefast.net&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;strong&gt;pfvpn&lt;/strong&gt;&lt;/a&gt;,每天签到可以使用15Mbps带宽的节点，不限流量，稳定性和延迟较好，且解锁了流媒体可以观看奈飞。&lt;/p&gt;
+&lt;p&gt;机场的订阅链接相比之下会比较稳定，但大多数都需要付费，且有跑路风险，这里以一个能够长期白嫖的机场&lt;a class=&#34;link&#34; href=&#34;http://purefast.net&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;pfvpn&lt;/strong&gt;&lt;/a&gt;为例，介绍获取订阅的方式。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;使用方式&lt;/strong&gt;：&lt;/p&gt;
 &lt;p&gt;访问机场地址&lt;a class=&#34;link&#34; href=&#34;http://purefast.net&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;purefast.net&lt;/strong&gt;&lt;/a&gt;，注册账号，点击每日签到，签到完成后点击复制Trojan订阅链接，获取节点订阅地址。&lt;/p&gt;
@@ -49,12 +51,12 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;
-&lt;p&gt;下载v2ray软件并使用&lt;/p&gt;
+&lt;li&gt;下载v2ray软件并使用&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;电脑端使用&lt;a class=&#34;link&#34; href=&#34;https://github.com/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;v2rayN&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;电脑端使用&lt;a class=&#34;link&#34; href=&#34;https://github.com/2dust/v2rayN/releases/download/5.38/v2rayN-Core.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;v2rayN&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;下载完成后解压，在文件夹中找到&lt;code&gt;v2rayN.exe&lt;/code&gt;文件，双击运行，会在右下角显示v2rayN的图标，双击图标打开主界面，选择&lt;code&gt;订阅/订阅设置&lt;/code&gt;，将上述步骤获得的订阅链接添加到订阅列表里，勾选&lt;code&gt;◻启用&lt;/code&gt;，点击确定保存。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://loli.tc/images/QQ20221122201150.png&#34;
 	
@@ -69,7 +71,7 @@
 &lt;p&gt;添加订阅完成后，点击&lt;code&gt;订阅/更新订阅(不通过代理)&lt;/code&gt;进行节点更新，可以&lt;code&gt;ctrl+a&lt;/code&gt;全选节点，使用&lt;code&gt;ctrl+r&lt;/code&gt;进行延迟测试或&lt;code&gt;ctrl+t&lt;/code&gt;进行速度测试，测试完成后按&lt;code&gt;ctrl+e&lt;/code&gt;对节点进行排序，选择最优节点，左键单击后按&lt;code&gt;enter&lt;/code&gt;进行选中。&lt;/p&gt;
 &lt;p&gt;选择最优节点后，右键托盘图标，选择&lt;code&gt;系统代理/自动设置系统代理&lt;/code&gt;，打开浏览器，访问&lt;a class=&#34;link&#34; href=&#34;http://youtube.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;youtube.com&lt;/a&gt;，如果配置没有问题，就可以正常打开youtube进行视频播放了。&lt;/p&gt;
-&lt;ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;手机端使用&lt;a class=&#34;link&#34; href=&#34;https://github.com/2dust/v2rayNG/releases/download/1.7.23/v2rayNG_1.7.23.apk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;v2rayNG&lt;/a&gt;&lt;/p&gt;
@@ -79,42 +81,28 @@
 &lt;p&gt;第一次使用会提示是否允许创建VPN链接，请选择&lt;code&gt;是&lt;/code&gt;。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 &lt;p&gt;3.机场推荐&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://purefast.net&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;purefast VPN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;优点&lt;/em&gt;： 每日签到送无限流量，免费节点为住宅ip(isp)，且具有多个地区可以选择，节点干净稳定而且延迟较低（300ms左右）。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;缺点&lt;/em&gt;： 带宽限制为15Mbps，且需要每日签到才能正常使用，最近又添加5秒盾、两次签到间隔23小时等措施，常规自动签到手段失效。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;总结&lt;/em&gt;： 能够满足大多数需求，挂上自动签到使用非常方便，但带宽较小不适合进行大文件下载。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;优点&lt;/em&gt;： 每日签到送&lt;del&gt;无限流量&lt;/del&gt;500MB流量，免费节点为住宅ip(isp)，&lt;del&gt;且具有多个地区可以选择&lt;/del&gt;少数地区可选，节点干净稳定而且延迟较低（300ms左右）。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;缺点&lt;/em&gt;： &lt;del&gt;带宽限制为15Mbps&lt;/del&gt;不限制带宽，且需要每日签到才能正常使用，最近又添加5秒盾、两次签到间隔23小时等措施，常规自动签到手段失效。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;总结&lt;/em&gt;： ~~能够满足大多数需求，挂上自动签到使用非常方便，但带宽较小不适合进行大文件下载。~~白嫖方案经过多次更改，已经没有以前划算了，但是依旧良心，可以作为救急节点使用。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://ikuuu.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;ikuuu VPN&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;优点&lt;/em&gt; ： 注册后每个月有&lt;em&gt;&lt;strong&gt;50G&lt;/strong&gt;&lt;/em&gt;流量，有五个日本免费节点可以使用，带宽限速为&lt;em&gt;&lt;strong&gt;50Mbps&lt;/strong&gt;&lt;/em&gt;，并且每日签到会赠送随机流量，实测在300mb~2Gb之间。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;缺点&lt;/em&gt;：  免费节点为机房ip(hosting)，不够干净，会被部分网站给拦截，例如&lt;a class=&#34;link&#34; href=&#34;https://konachan.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;konachan&lt;/a&gt;等使用了cloud flare保护的图站，未解锁奈飞。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;总结&lt;/em&gt;：  适合用来浏览telegram，twitter等社交媒体，以及观看youtube视频等。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;优点&lt;/em&gt; ： 注册后每个月有&lt;em&gt;&lt;strong&gt;50G&lt;/strong&gt;&lt;/em&gt;流量（月初刷新），有五个日本免费节点可以使用，带宽限速为&lt;em&gt;&lt;strong&gt;50Mbps&lt;/strong&gt;&lt;/em&gt;，并且每日签到会赠送随机流量，实测在300mb~2Gb之间。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;缺点&lt;/em&gt;：  免费节点为机房IP(hosting)，不够干净，会被部分网站给拦截，例如&lt;a class=&#34;link&#34; href=&#34;https://konachan.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;konachan&lt;/a&gt;等使用了cloud flare保护的图站，节点大部分时间只有一个能用，未解锁奈飞。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;总结&lt;/em&gt;：  适合用来浏览telegram，twitter等社交媒体，以及观看youtube视频等，每月自动重置流量适合懒人用户。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://v2free.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;v2free VPN&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;​		&lt;em&gt;总结&lt;/em&gt;：  垃圾，别用，节点又慢又卡，订阅链接都能被墙。&lt;/p&gt;
-&lt;p&gt;4.自动签到脚本&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;[通用脚本](&lt;a class=&#34;link&#34; href=&#34;https://github.com/Qiuyebai-1226/workflow_test&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Qiuyebai-1226/workflow_test: workflow测试仓库 (github.com)&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;适用于大多数使用ssl panel，且具有签到功能的机场，fork该项目，在Secrets中添加账号密码和消息通知api即可，支持多账户签到。对于不同的机场，修改其中的链接即可。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;[purefast VPN专用脚本](&lt;a class=&#34;link&#34; href=&#34;https://github.com/Qiuyebai-1226/PFvpn-checkin&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Qiuyebai-1226/PFvpn-checkin: 用于PFvpn自动签到，适用于nonebot2 (github.com)&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;因为PFvpn添加了5秒盾等措施，通用脚本失效，因此采用了playwright模拟浏览器行为进行签到，签到完成后会对签到结果进行截图。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;www.proxyvip.xyz&#34; &gt;proxy vip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;优点&lt;/em&gt;：注册后赠送60G流量，有效期为一个月，节点数量多，延迟低，带宽测速能达到200M左右。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;缺点&lt;/em&gt;：不能使用临时邮箱注册，所以无法用临时邮箱进行无限白嫖，只能使用google，outlook等邮箱注册。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;总结&lt;/em&gt;：非常好用，目前白嫖首推机场，可以注册outlook邮箱进行白嫖，虽然不实名认证后续邮箱会禁止使用，但不影响机场使用。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
